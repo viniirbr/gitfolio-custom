@@ -1,3 +1,3 @@
 <pinned-repos>
-  dsadasdasdsa
+  orderfy;lottery-react;jogo-dos-numeros-reais;alura-geek
 <pinned-repos/>
