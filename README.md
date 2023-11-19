@@ -1,3 +1,3 @@
-##pinned-repos##
-
-##pinned-repos##
+<pinned-repos>
+  dsadasdasdsa
+<pinned-repos/>
